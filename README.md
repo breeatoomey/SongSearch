@@ -15,3 +15,6 @@ SongSearch is a mobile application developed using Swift and SwiftUI. It provide
 
 ## Technical Specification
 SongSearch was developed with Swift and SwiftUI. It derives its data from the Genius API. 
+
+## How to Run
+This project was developed in XCode, so you should be able to clone this repo and run the SongSearch.xcodeproj file directly in XCode. You can then run the app in an iOS simulator. Visually, it looks best on an iPhone 14 pro, and I developed it for iOS 16 or above, but I don't think any functionality is lost on earlier systems. 
