@@ -14,4 +14,4 @@ SongSearch is a mobile application developed using Swift and SwiftUI. It provide
 - Along with this, the proper title of the song along with its album art are displayed for the user at the top of the screen.
 
 ## Technical Specification
-SongSearch was developed with Swift and SwiftUI and derives its data from the Genius API. 
+SongSearch was developed with Swift and SwiftUI. It derives its data from the Genius API. 
